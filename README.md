@@ -1,5 +1,5 @@
 # Projeto UNES (Página institucional de uma universidade)
-O site foi todo construído em HTML com intuito de estudar algumas funcionalidade básicas da Linguagem de Marcação de Hipertexto estudados no curso de Desenvolvimento Web da Udemy pelo Instrutor Jamilton Damasceno. E foi estabelecido 3 divisões de páginas:
+O site foi todo construído em HTML com intuito de utilizar algumas funcionalidade básicas da Linguagem de Marcação de Hipertexto estudados no curso de Desenvolvimento Web da Udemy pelo Instrutor Jamilton Damasceno. E foi estabelecido 3 divisões de páginas:
 - Página inicial
 - Quem somos
 - Contato
